@@ -12,11 +12,11 @@ FastLane Detector is a Python-based application that utilizes OpenCV for detecti
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/abesh-meena/-TrafiSpeed-.git
+   git clone https://github.com/dyn-dal-037/FastLane-Detector.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd -TrafiSpeed-
+   cd FastLane-Detector
    ```
 3. **Install Dependencies**:
    Ensure you have Python installed. Install the required packages using pip:
@@ -51,14 +51,3 @@ FastLane Detector is a Python-based application that utilizes OpenCV for detecti
 
 *Ensure all dependencies are installed for the application to function correctly.*
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-Special thanks to the open-source community and the contributors of OpenCV for providing the tools necessary for this project.
